@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from py_generic_adapter.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "py_generic_adapter"
